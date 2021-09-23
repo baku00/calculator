@@ -1,0 +1,13 @@
+{
+    "name": "suisse-rnd/calculator",
+    "description": "Calcul",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Suisse",
+            "email": "github-93MuYi2Bf@protonmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
